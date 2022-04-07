@@ -1,4 +1,7 @@
 # LittleSlimeBoy
+Screenshots
+![IMG_C2BA1FA07A8C-1](https://user-images.githubusercontent.com/102928652/162146044-a7d417b8-a39d-4f03-baf8-18fe6dc1959b.jpeg)
+
 <h4>Unity Version: 2021.2.15f1 (Apple Silicon)<br><h4>
 
 
@@ -12,7 +15,7 @@
   TUR
   <br>
   Bu proje bir 2D Platform Oyunudur. Oyun sorunsuz şekilde çalışıyor, oynanabilir. Karakter koşma, bekleme, zıplama animasyonları eklendi.Harita tasarımı için tile palette kullanıldı. Düşman ile çarpışmalarda game over ekranı yansıtılıyor. Ödül sandığı ile çarpışmada game win ekranı yansıtılıyor. Deniz ile çarpışmalarda game over ekranı yansıtılıyor.  Denize dalga animasyonu eklendi. Testereye dönme animasyonu eklendi. Ana menü eklendi. Karakteri yumuşak şekilde takip eden kamera eklendi. Karakter ölme, zıplama sesleri eklendi. Arkaplan müziği ve oyun kazanma müziği eklendi.<h5>
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umutberkaykaraca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umutberkaykaraca" height="30" width="40" /></a>
